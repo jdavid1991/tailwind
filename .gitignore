@@ -1,0 +1,9 @@
+# Ignorar archivos de respaldo generados por editores de texto
+*~
+
+# Ignorar archivos log
+*.log
+
+# Ignorar directorios de archivos de compilación
+build/
+node_modules/
